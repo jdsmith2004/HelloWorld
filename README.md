@@ -1,8 +1,6 @@
 # HelloWorld
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
-
 This is a quick software program to print "Hello World" to the terminal.
 
 This was created as a basic example program
